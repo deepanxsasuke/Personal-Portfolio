@@ -103,6 +103,7 @@ const Hero = () => {
                 <motion.a
                   key={button.text}
                   href={button.link}
+                  {...(button.download ? { download: "Deepan Resume.pdf" } : {})}
                   className={`premium-btn ${isViewProjects ? 'premium-btn--violet' : 'premium-btn--dark'}`}
                   whileHover={{ scale: 1.03, y: -2 }}
                   whileTap={{ scale: 0.97 }}

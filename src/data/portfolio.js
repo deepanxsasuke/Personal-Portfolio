@@ -7,7 +7,7 @@ export const portfolioData = {
     subtitle: "B.Tech Information Technology Student & Full Stack / AI Product Developer from Tamil Nadu. I build modern web applications and AI-powered digital products.",
     cta: [
       { text: "View Projects", link: "#projects", primary: true },
-      { text: "Download Resume", link: "/resume.pdf", primary: false },
+      { text: "Download Resume", link: "/Deepan%20Resume.pdf", primary: false, download: true },
       { text: "GitHub", link: "https://github.com/deepanxsasuke", primary: false },
       { text: "Contact", link: "#contact", primary: false },
     ]
@@ -46,12 +46,12 @@ export const portfolioData = {
     },
     {
       id: 2,
-      title: "Aura Anime",
-      description: "Anime wallpaper website with a beautiful gallery, admin control panel, and curated high-quality wallpapers for every anime fan.",
-      tech: ["React", "Tailwind CSS", "Admin Panel"],
-      github: "https://github.com/deepanxsasuke/AuraAnime-Our-1st-Website",
-      demo: "https://auraanime.vercel.app/",
-      image: "/auraanime.png",
+      title: "Barber Shop Booking System",
+      description: "A comprehensive booking system for a barber shop with date/time selection and WhatsApp integration.",
+      tech: ["React", "Tailwind CSS", "WhatsApp Integration"],
+      github: "https://github.com/deepanxsasuke",
+      demo: "https://barbershop-sooty-nine.vercel.app/",
+      image: "/barbershop.png",
     },
     {
       id: 3,
@@ -64,12 +64,12 @@ export const portfolioData = {
     },
     {
       id: 4,
-      title: "Barber Shop Booking System",
-      description: "A comprehensive booking system for a barber shop with date/time selection and WhatsApp integration.",
-      tech: ["React", "Tailwind CSS", "WhatsApp Integration"],
-      github: "https://github.com/deepanxsasuke",
-      demo: "https://barbershop-sooty-nine.vercel.app/",
-      image: "/barbershop.png",
+      title: "Aura Anime",
+      description: "Anime wallpaper website with a beautiful gallery, admin control panel, and curated high-quality wallpapers for every anime fan.",
+      tech: ["React", "Tailwind CSS", "Admin Panel"],
+      github: "https://github.com/deepanxsasuke/AuraAnime-Our-1st-Website",
+      demo: "https://auraanime.vercel.app/",
+      image: "/auraanime.png",
     },
   ],
   experience: [
