@@ -11,5 +11,5 @@ React • Vite • JavaScript • Tailwind CSS
 - Anime Wallpaper Website
 - Barbershop Booking System
 
-🌐 Live Demo
-https://deepanportfolio-nu.vercel.app/
+🌐 Live Demo:https://deepanportfolio-nu.vercel.app/
+
