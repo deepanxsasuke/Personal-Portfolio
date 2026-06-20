@@ -1,15 +1,17 @@
-# 🚀 Deepan's Portfolio
+🚀 Deepan's Portfolio
 
 A modern and responsive developer portfolio showcasing my projects, technical skills, achievements, and journey as a B.Tech IT student.
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 React • Vite • JavaScript • Tailwind CSS
 
-## 🌟 Featured Projects
+🌟 Featured Projects
 - Instagram Toolkit
 - SmartKid Learning Game
 - Anime Wallpaper Website
 - Barbershop Booking System
 
-## 🌐 Live Demo
-https://your-portfolio-link.com
+
+🌐 Live Demo:
+https://deepanportfolio-nu.vercel.app/
+
